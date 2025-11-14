@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hii i'm vedant . I completed my Bachelor's in Computer Applications (BCA) from TMV pune, where I developed a strong foundation in programming , software development, and computer fundamentals. Currently, I am pursuing my Master's in Computer Applications (MCA) from Sinhgad college vadgaon pune , deepening my technical expertise and enhancing my skills in advanced topics like database management, data structures and algorithms, and software engineering.<br>My academic journey reflects my passion for technology and my drive to continuously learn and evolve in the ever-growing field of computer science.
+Hii i'm Prithvi . I completed my Bachelor's in Computer Applications (BCA) from Pratibha College of commerce and computer and studies pune, where I developed a strong foundation in programming , software development, and computer fundamentals. Currently, I am pursuing my Master's in Computer Applications (MCA) from Sinhgad college vadgaon pune , deepening my technical expertise and enhancing my skills in advanced topics like database management, data structures and algorithms, and software engineering.<br>My academic journey reflects my passion for technology and my drive to continuously learn and evolve in the ever-growing field of computer science.
 
 
 ## 🌐 Socials:
