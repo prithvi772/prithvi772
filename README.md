@@ -3,7 +3,7 @@ Hii i'm Prithvi . I completed my Bachelor's in Computer Applications (BCA) from 
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gadekarprithvi772) [![LinkedIn](https://www.linkedin.com/in/prithvi-gadekar-75aa4a215/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gadekarprithvi772)  
 
 # 💻 Tech Stack:
 #### 🚀 Full Stack Development
